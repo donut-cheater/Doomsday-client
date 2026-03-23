@@ -1,3 +1,22 @@
 # Doomsday-client 
 
-Doomsday Client | DonutSMP Special EditionDoomsday ist ein hochoptimierter Utility-Mod für Minecraft, der speziell für die kompetitive Umgebung des DonutSMP entwickelt wurde. Da DonutSMP für sein hartes Lifesteal-System und die extremen PvP-Bedingungen bekannt ist, fokussiert sich Doomsday auf maximale Performance, Umgehung von Anti-Cheats (Grim/Vulcan) und spezifische Lifesteal-Exploits.🚀 Hauptfeatures⚔️ Combat (PvP)Lifesteal-Aura: Eine spezialisierte Killaura, die Waffen-Cooldowns auf DonutSMP-Lags anpasst.Auto-Totem & Smart-Gap: Erkennt kritische Lebenspunkte und rüstet Totems oder verzauberte Goldäpfel (Gaps) automatisch aus, bevor der Server den Tod registriert.Crystal-Aura (Hardcore Mode): Optimiert für hohe Latenzen, um End-Crystals mit maximaler Geschwindigkeit zu platzieren und zu zünden.TriggerBot (No-Miss): Schlägt nur zu, wenn die Trefferwahrscheinlichkeit bei über 95% liegt.🛡️ Survival & MovementHeart-Tracker: Zeigt die Anzahl der Herzen deiner Gegner in einem Overlay an (entscheidend für Lifesteal-Taktiken).Velocity (Smooth): Reduziert den Rückstoß, ohne den Server-Verdacht zu erregen (Grim AC Bypass).Spider & Step: Erlaubt das schnelle Erklimmen von feindlichen Basen während eines Raids.Auto-Elytra-Fly: Optimiert für das Reisen über weite Distanzen auf der Suche nach versteckten Basen.🛠️ Visuals & UtilityBaseFinder: Scannt die Welt nach ungewöhnlichen Block-Clustern (Kisten, Öfen, Leuchtfeuer), um versteckte Basen zu lokalisieren.Player-ESP & Tracers: Markiert Spieler durch Wände und zeigt deren aktuelle Ausrüstung.Auto-Loot: Sortiert wertvolle Items (Herzen, Netherritskrapfen) sofort in dein Inventar ein.🛠 Technische DetailsDer Client ist als Fabric-Mod für die Version 1.20.x konzipiert.ModulBeschreibungStatusBypass EngineUmgeht aktiv heuristische Analysen✅ AktivHUD CustomizerVollständig anpassbare Benutzeroberfläche✅ AktivConfig SystemProfile für "Legit", "Blatant" und "Raid"✅ Aktiv
+<img width="676" height="162" alt="image" src="https://github.com/user-attachments/assets/ac13a655-1a3a-4318-9ed1-6e6bdf3e148c" />
+
+
+<img width="693" height="348" alt="image" src="https://github.com/user-attachments/assets/d38223a8-a199-4332-bed2-0a217301f029" />
+
+
+<img width="685" height="288" alt="image" src="https://github.com/user-attachments/assets/c7b5c3c5-955a-4b65-ae1c-1c2ff14e302b" />
+
+
+<img width="708" height="194" alt="image" src="https://github.com/user-attachments/assets/3d310eec-3ae2-490d-b479-11d70ad59fa1" />
+
+
+<img width="641" height="179" alt="image" src="https://github.com/user-attachments/assets/d2a74dfb-5361-4249-9d8a-3dc3a889d841" />
+
+
+
+# disclaimer 
+
+es funktioniert nur auf # modrinth
+und es benötigt # fabric api und fabric language kotlin 
